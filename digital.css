@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(12, 12, 7);
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-bottom: 20px; /* Adjust the value to increase/decrease space */
+}
+
+.clock {
+    font-size: 5em;
+    padding: 30px;
+    border: 5px solid wheat;
+    border-radius: 10px;
+    text-align: center;
+}

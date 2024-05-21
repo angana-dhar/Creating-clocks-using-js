@@ -1,0 +1,44 @@
+h1 {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+#stopwatch {
+    background-color: blueviolet;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 100px;
+    text-align: center;
+    display: flexbox;
+    font-size: medium;
+}
+
+#start {
+    background-color: rgb(146, 213, 228);
+    font-size:x-large;
+}
+
+#stop {
+    background-color: red;
+    font-size: x-large;
+}
+
+#reset {
+    background-color: rgb(211, 46, 211);
+    font-size: x-large;
+}
+
+#display {
+    color: rgb(1, 1, 12);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    
+
+    
+}
